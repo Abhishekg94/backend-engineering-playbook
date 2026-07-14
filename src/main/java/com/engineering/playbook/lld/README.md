@@ -78,6 +78,7 @@ EASY QUS
 6.Design Coffee Vending Machine
 7.Design a Task Management System
 
+
 MEDIUM QUS
 1.Design ATM
 2.Design LinkedIn
